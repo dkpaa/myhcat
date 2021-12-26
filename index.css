@@ -9,7 +9,7 @@ a{
 /* -----導覽列----- */
 
 .header{
-    width: 100%;
+    width: 1263px;
     display: flex;
     background-color: #87c573;
 }
@@ -41,12 +41,12 @@ a{
 /* -----幻燈片----- */
 
 .slideshow{
-    width: 100%;
+    width: 1263px;
     height: 450px;
 }
 
 .slideshow img{
-    width: 100%;
+    width: 1263px;
     height: 100%;
 }
 
