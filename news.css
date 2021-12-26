@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+/* -----導覽列----- */
+
+.header{
+    width: 100%;
+    display: flex;
+    background-color: #87c573;
+}
+.logo img{
+    width: 92.5px;
+    margin-left: 10px;
+}
+.logoname{
+    font-size: 24px;
+    margin-top: 40px;
+    margin-left: 15px;
+}
+.menu{
+    display: flex;
+}
+.menu a{
+    width: 120px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    margin: 20px;
+    text-align: center;
+}
+
+/* -----導覽列----- */
+
+/* -----最新消息----- */
+.news{
+    font-size: 24px;
+    text-align: center  ;
+    color: #944b1f;
+    margin: 20px;
+}
+/* -----最新消息----- */
+
+/* -----底部----- */
+.bottom{
+    width: 100%;
+    background-color: #87c573;
+    border-top: 1px solid black;
+    display: flex;
+}
+.info01{
+    margin: 10px;
+}
+.info02{
+    margin: 10px;
+}
+.fb img{
+    width: 32px;
+    height: 32px;
+    margin-top: 20px;
+    margin-left: 350px;
+}
+.line img{
+    width: 32px;
+    height: 32px;
+    margin: 10px;
+    margin-top: 20px;
+}
+/* -----底部----- */

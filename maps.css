@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+/* -----導覽列----- */
+
+.header{
+    width: 100%;
+    display: flex;
+    background-color: #87c573;
+}
+.logo img{
+    width: 92.5px;
+    margin-left: 10px;
+}
+.logoname{
+    font-size: 24px;
+    margin-top: 40px;
+    margin-left: 15px;
+}
+.menu{
+    display: flex;
+}
+.menu a{
+    width: 120px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    margin: 20px;
+    text-align: center;
+}
+
+/* -----導覽列----- */
+
+/* -----地圖----- */
+.map{
+    display: flex;
+}
+.map .mapimg{
+    margin: 10px;
+}
+.maptxt{
+    margin: 10px;
+    margin-left: 54px;
+    color: #944b1f;
+    font-size: 28px;
+}
+
+/* -----地圖----- */
+
+/* -----景點介紹----- */
+.spot{
+    display: flex;
+}
+.spot01img{
+    margin: 10px;
+    width: 400px;
+    text-align: center;
+    background-color: #dec6ba;
+}
+.spot01img img{
+    width: 400px;
+}
+.spot02img{
+    margin: 10px;
+    width: 400px;
+    text-align: center;
+    background-color: #dec6ba;
+}
+.spot02img img{
+    width: 400px;
+    height: 266px;
+}
+.spot03img{
+    margin: 10px;
+    width: 400px;
+    text-align: center;
+    background-color: #dec6ba;
+}
+.spot03img img{
+    width: 400px;
+    height: 266px;
+}
+.spot04img{
+    margin: 10px;
+    width: 400px;
+    text-align: center;
+    background-color: #dec6ba;
+}
+.spot04img img{
+    width: 400px;
+    height: 266px;
+}
+.spot05img{
+    margin: 10px;
+    width: 400px;
+    text-align: center;
+    background-color: #dec6ba;
+}
+.spot05img img{
+    width: 400px;
+}
+.spot06img{
+    margin: 10px;
+    width: 400px;
+    text-align: center;
+    background-color: #dec6ba;
+}
+.spot06img img{
+    width: 400px;
+    height: 266px;
+}
+
+/* -----景點介紹----- */
+
+/* -----底部----- */
+.bottom{
+    width: 100%;
+    background-color: #87c573;
+    border-top: 1px solid black;
+    display: flex;
+}
+.info01{
+    margin: 10px;
+}
+.info02{
+    margin: 10px;
+}
+.fb img{
+    width: 32px;
+    height: 32px;
+    margin-top: 20px;
+    margin-left: 350px;
+}
+.line img{
+    width: 32px;
+    height: 32px;
+    margin: 10px;
+    margin-top: 20px;
+}
+/* -----底部----- */
