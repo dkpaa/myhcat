@@ -9,7 +9,7 @@ a{
 /* -----導覽列----- */
 
 .header{
-    width: 1263px;
+    width: 100%;
     display: flex;
     background-color: #87c573;
 }
